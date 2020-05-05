@@ -6,7 +6,14 @@
       "endDate": "04-19",
       "name": "aries",
       "sign": "fire",
-      "emoji": "ram"
+      "emoji": "ram",
+
+      "symbol": "the ram",
+      "spiritColor": "red",
+      "luckyNumbers": [1, 9],
+      "luckyDay": "tuesday",
+      "rulingPlanet": "Mars",
+      "qualities": ["brave", "optimistic", "passionate", "active", "energetic"]
     },
     {
       "id": 2,
@@ -14,7 +21,14 @@
       "endDate": "05-20",
       "name": "taurus",
       "sign": "earth",
-      "emoji": "ox"
+      "emoji": "ox",
+
+      "symbol": "the bull",
+      "spiritColor": "pale blue",
+      "luckyNumbers": [6, 4],
+      "luckyDay": "friday",
+      "rulingPlanet": "Venus",
+      "qualities": ["loyal", "persistent", "pragmatic", "patient", "determined"]
     },
     {
       "id": 3,
@@ -22,7 +36,14 @@
       "endDate": "06-20",
       "name": "gemini",
       "sign": "air",
-      "emoji": "two_men_holding_hands"
+      "emoji": "two_men_holding_hands",
+
+      "symbol": "the twins",
+      "spiritColor": "yellow",
+      "luckyNumbers": [5, 9],
+      "luckyDay": "wednesday",
+      "rulingPlanet": "Mercury",
+      "qualities": ["clever", "curious", "energetic", "lively", "intellectual"]
     },
     {
       "id": 4,
@@ -30,7 +51,20 @@
       "endDate": "07-22",
       "name": "cancer",
       "sign": "water",
-      "emoji": "crab"
+      "emoji": "crab",
+
+      "symbol": "the crab",
+      "spiritColor": "sea green",
+      "luckyNumbers": [3, 7],
+      "luckyDay": "monday",
+      "rulingPlanet": "the moon",
+      "qualities": [
+        "protective",
+        "sentimental",
+        "intuitive",
+        "imaginative",
+        "sympathetic"
+      ]
     },
     {
       "id": 5,
@@ -38,7 +72,20 @@
       "endDate": "08-22",
       "name": "leo",
       "sign": "fire",
-      "emoji": "lion_face"
+      "emoji": "lion_face",
+
+      "symbol": "the lion",
+      "spiritColor": "gold",
+      "luckyNumbers": [8, 9],
+      "luckyDay": "sunday",
+      "rulingPlanet": "the sun",
+      "qualities": [
+        "bold",
+        "courageous",
+        "passionate",
+        "enthusiastic",
+        "generous"
+      ]
     },
     {
       "id": 6,
@@ -46,7 +93,14 @@
       "endDate": "09-22",
       "name": "virgo",
       "sign": "earth",
-      "emoji": "girl"
+      "emoji": "girl",
+
+      "symbol": "the virgin",
+      "spiritColor": "navy blue",
+      "luckyNumbers": [5, 3],
+      "luckyDay": "wednesday",
+      "rulingPlanet": "mercury",
+      "qualities": ["loyal", "reliable", "practical", "reserved", "modest"]
     },
     {
       "id": 7,
@@ -54,7 +108,14 @@
       "endDate": "10-22",
       "name": "libra",
       "sign": "air",
-      "emoji": "scales"
+      "emoji": "scales",
+
+      "symbol": "the scales",
+      "spiritColor": "blue",
+      "luckyNumbers": [6, 9],
+      "luckyDay": "friday",
+      "rulingPlanet": "venus",
+      "qualities": ["social", "merciful", "gracious", "artistic", "easygoing"]
     },
     {
       "id": 8,
@@ -62,7 +123,20 @@
       "endDate": "11-21",
       "name": "scorpio",
       "sign": "water",
-      "emoji": "scorpion"
+      "emoji": "scorpion",
+
+      "symbol": "the scorpion",
+      "spiritColor": "crimson",
+      "luckyNumbers": [2, 4],
+      "luckyDay": "tuesday",
+      "rulingPlanet": "pluto",
+      "qualities": [
+        "passionate",
+        "independent",
+        "brave",
+        "imaginative",
+        "persistent"
+      ]
     },
     {
       "id": 9,
@@ -70,7 +144,14 @@
       "endDate": "12-21",
       "name": "sagittarius",
       "sign": "fire",
-      "emoji": "bow_and_arrow"
+      "emoji": "bow_and_arrow",
+
+      "symbol": "the archer",
+      "spiritColor": "purple",
+      "luckyNumbers": [5, 7],
+      "luckyDay": "thursday",
+      "rulingPlanet": "jupiter",
+      "qualities": ["funny", "optimistic", "generous", "energetic", "ambitious"]
     },
     {
       "id": 10,
@@ -78,7 +159,20 @@
       "endDate": "01-19",
       "name": "capricorn",
       "sign": "earth",
-      "emoji": "goat"
+      "emoji": "goat",
+
+      "symbol": "the goat",
+      "spiritColor": "dark green",
+      "luckyNumbers": [2, 8],
+      "luckyDay": "saturday",
+      "rulingPlanet": "saturn",
+      "qualities": [
+        "tenacious",
+        "disciplined",
+        "independent",
+        "reerved",
+        "patient"
+      ]
     },
     {
       "id": 11,
@@ -86,7 +180,20 @@
       "endDate": "02-18",
       "name": "aquarius",
       "sign": "air",
-      "emoji": "amphora"
+      "emoji": "amphora",
+
+      "symbol": "the water bearer",
+      "spiritColor": "electric blue",
+      "luckyNumbers": [1, 7],
+      "luckyDay": "wednesday",
+      "rulingPlanet": "uranus",
+      "qualities": [
+        "progressive",
+        "original",
+        "assertive",
+        "independent",
+        "analytical"
+      ]
     },
     {
       "id": 12,
@@ -94,7 +201,14 @@
       "endDate": "03-20",
       "name": "pisces",
       "sign": "water",
-      "emoji": "fish"
+      "emoji": "fish",
+
+      "symbol": "two fish",
+      "spiritColor": "pale green",
+      "luckyNumbers": [2, 6],
+      "luckyDay": "friday",
+      "rulingPlanet": "neptune",
+      "qualities": ["wise", "intuitive", "imaginative", "receptive", "romantic"]
     }
   ]
 }
