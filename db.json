@@ -13,7 +13,12 @@
       "luckyNumbers": [1, 9],
       "luckyDay": "tuesday",
       "rulingPlanet": "Mars",
-      "qualities": ["brave", "optimistic", "passionate", "active", "energetic"]
+      "qualities": ["brave", "optimistic", "passionate", "active", "energetic"],
+      "emojis": {
+        "name": "♈",
+        "symbol": "🐏",
+        "planet": "♂️"
+      }
     },
     {
       "id": 2,
@@ -28,7 +33,18 @@
       "luckyNumbers": [6, 4],
       "luckyDay": "friday",
       "rulingPlanet": "Venus",
-      "qualities": ["loyal", "persistent", "pragmatic", "patient", "determined"]
+      "qualities": [
+        "loyal",
+        "persistent",
+        "pragmatic",
+        "patient",
+        "determined"
+      ],
+      "emojis": {
+        "name": "♉",
+        "symbol": "🐂",
+        "planet": "♀️"
+      }
     },
     {
       "id": 3,
@@ -43,7 +59,12 @@
       "luckyNumbers": [5, 9],
       "luckyDay": "wednesday",
       "rulingPlanet": "Mercury",
-      "qualities": ["clever", "curious", "energetic", "lively", "intellectual"]
+      "qualities": ["clever", "curious", "energetic", "lively", "intellectual"],
+      "emojis": {
+        "name": "♊",
+        "symbol": "👬🏻",
+        "planet": "☿️"
+      }
     },
     {
       "id": 4,
@@ -64,7 +85,12 @@
         "intuitive",
         "imaginative",
         "sympathetic"
-      ]
+      ],
+      "emojis": {
+        "name": "♋",
+        "symbol": "🦀",
+        "planet": "🌕"
+      }
     },
     {
       "id": 5,
@@ -85,7 +111,12 @@
         "passionate",
         "enthusiastic",
         "generous"
-      ]
+      ],
+      "emojis": {
+        "name": "♌",
+        "symbol": "🦁",
+        "planet": "☀️"
+      }
     },
     {
       "id": 6,
@@ -100,7 +131,12 @@
       "luckyNumbers": [5, 3],
       "luckyDay": "wednesday",
       "rulingPlanet": "mercury",
-      "qualities": ["loyal", "reliable", "practical", "reserved", "modest"]
+      "qualities": ["loyal", "reliable", "practical", "reserved", "modest"],
+      "emojis": {
+        "name": "♍",
+        "symbol": "👧",
+        "planet": "☿️"
+      }
     },
     {
       "id": 7,
@@ -115,7 +151,12 @@
       "luckyNumbers": [6, 9],
       "luckyDay": "friday",
       "rulingPlanet": "venus",
-      "qualities": ["social", "merciful", "gracious", "artistic", "easygoing"]
+      "qualities": ["social", "merciful", "gracious", "artistic", "easygoing"],
+      "emojis": {
+        "name": "♎",
+        "symbol": "⚖️",
+        "planet": "♀️"
+      }
     },
     {
       "id": 8,
@@ -136,7 +177,12 @@
         "brave",
         "imaginative",
         "persistent"
-      ]
+      ],
+      "emojis": {
+        "name": "♏",
+        "symbol": "🦂",
+        "planet": "♇"
+      }
     },
     {
       "id": 9,
@@ -151,7 +197,18 @@
       "luckyNumbers": [5, 7],
       "luckyDay": "thursday",
       "rulingPlanet": "jupiter",
-      "qualities": ["funny", "optimistic", "generous", "energetic", "ambitious"]
+      "qualities": [
+        "funny",
+        "optimistic",
+        "generous",
+        "energetic",
+        "ambitious"
+      ],
+      "emojis": {
+        "name": "♐",
+        "symbol": "🏹",
+        "planet": "♃"
+      }
     },
     {
       "id": 10,
@@ -172,7 +229,12 @@
         "independent",
         "reerved",
         "patient"
-      ]
+      ],
+      "emojis": {
+        "name": "♑",
+        "symbol": "🐐",
+        "planet": "♄"
+      }
     },
     {
       "id": 11,
@@ -193,7 +255,12 @@
         "assertive",
         "independent",
         "analytical"
-      ]
+      ],
+      "emojis": {
+        "name": "♒",
+        "symbol": "🏺",
+        "planet": "♅"
+      }
     },
     {
       "id": 12,
@@ -208,7 +275,18 @@
       "luckyNumbers": [2, 6],
       "luckyDay": "friday",
       "rulingPlanet": "neptune",
-      "qualities": ["wise", "intuitive", "imaginative", "receptive", "romantic"]
+      "qualities": [
+        "wise",
+        "intuitive",
+        "imaginative",
+        "receptive",
+        "romantic"
+      ],
+      "emojis": {
+        "name": "♓",
+        "symbol": "🐟",
+        "planet": "♆"
+      }
     }
   ]
 }
